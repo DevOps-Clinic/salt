@@ -3,4 +3,4 @@ test-file:
     - name: /root/hello_world.txt
     - contents:
       - "### DO NOT EDIT - MANAGED WITH SALTSTACK ###"
-      - "Hello Dev World!"
+      - "Hello World!"
